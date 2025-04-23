@@ -74,7 +74,8 @@ Cocok-Rumus/
 Dikembangkan oleh:
 
 - [@dimxdev](https://github.com/dimxdev)  
-- [@Alfe1n](https://github.com/Alfe1n)  
+- [@Alfe1n](https://github.com/Alfe1n) 
+- [@Jrew14](https://github.com/Jrew14) 
 
 Game ini merupakan bagian dari perjalanan belajar membuat aplikasi Java berbasis GUI.
 
