@@ -36,13 +36,25 @@ java CocokRumus
 
 ---
 
-## 🧩 Tangkapan Layar (opsional)
+## 📸 Tampilan game
 
-Jika tersedia, tambahkan screenshot tampilan game:
+### 🟢 Menu Utama
+![Menu](screenshots/menu.png)
 
-```markdown
-![Tampilan Game](screenshots/gameplay.png)
-```
+---
+
+### 🎯 Mode Permainan - Easy
+![Game Easy](screenshots/game-easy.png)
+
+---
+
+### 🎯 Mode Permainan - Hard
+![Game Hard](screenshots/game-hard.png)
+
+---
+
+### 📚 Kamus 
+![Kamus](screenshots/kamus.png)
 
 ---
 
