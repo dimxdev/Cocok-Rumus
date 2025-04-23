@@ -71,7 +71,11 @@ Cocok-Rumus/
 
 ## 👨‍💻 Pembuat
 
-Dikembangkan oleh [@dimxdev](https://github.com/dimxdev)  
+Dikembangkan oleh:
+
+- [@dimxdev](https://github.com/dimxdev)  
+- [@Alfe1n](https://github.com/Alfe1n)  
+
 Game ini merupakan bagian dari perjalanan belajar membuat aplikasi Java berbasis GUI.
 
 ---
